@@ -1,0 +1,9 @@
+PIRC Warning: Replicator skipped 14 non-data document(s) in DST/servers.nsf from DSTNotes1/Lexington/DST DST\servers.nsf
+
+rep DST/Lexington/Contr/IBM DST\severs.nsf -NOPIRC
+
+rep Noteshub/DST 
+
+rep DST/Lexington/Contr/IBM DST\severs.nsf -NOPIRC
+
+rep DST/Lexington/Contr/IBM DST\severs.nsf -NOPIRC
